@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Department" max_length="40" name="x_58872_needit_department" type="collection">
+        <element label="Dept sysId" max_length="40" name="dept_id" type="string"/>
+        <element display="true" label="Dept Name" mandatory="true" max_length="40" name="dept_name" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Dept Id" max_length="40" name="number" read_only="true" type="string"/>
+        <element label="Dept Manager" mandatory="true" max_length="32" name="u_reference_1" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="u_reference_1"/>
+        </index>
+    </element>
+</database>

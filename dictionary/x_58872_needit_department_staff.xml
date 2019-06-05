@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Department staff" max_length="40" name="x_58872_needit_department_staff" type="collection">
+        <element label="Dept Name" mandatory="true" max_length="32" name="dept_name" reference="x_58872_needit_department" type="reference"/>
+        <element display="true" label="Dept Staff" mandatory="true" max_length="32" name="dept_staff" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="dept_name"/>
+        </index>
+        <index name="index2">
+            <element name="dept_staff"/>
+        </index>
+    </element>
+</database>
