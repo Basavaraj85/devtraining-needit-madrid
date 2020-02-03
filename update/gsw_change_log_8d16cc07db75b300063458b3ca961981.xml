@@ -2,7 +2,7 @@
     <gsw_change_log action="INSERT_OR_UPDATE">
         <change_date>2019-06-06 22:45:31</change_date>
         <changed_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</changed_by>
-        <content display_value="Business Service - Software Models">7f271530874103008a4a578c87cb0b87</content>
+        <content display_value="Application Service - Software Models">7f271530874103008a4a578c87cb0b87</content>
         <related_change_log_entry/>
         <related_task_entry/>
         <sys_class_name>gsw_change_log</sys_class_name>

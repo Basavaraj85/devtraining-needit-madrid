@@ -2,12 +2,12 @@
     <gsw_status_of_content action="INSERT_OR_UPDATE">
         <best_practice_allowed_ever>0</best_practice_allowed_ever>
         <checksum/>
-        <content display_value="Technology Portfolio Management">c3c191fc870103008a4a578c87cb0ba1</content>
+        <content display_value="Technology Portfolio">c3c191fc870103008a4a578c87cb0ba1</content>
         <effective_weight>1</effective_weight>
         <more_info_visited>false</more_info_visited>
         <previous_status>0</previous_status>
         <progress>66.6666667</progress>
-        <related_log_entry display_value="2019-06-07 16:44:20">fbe3b89bdb353300063458b3ca961981</related_log_entry>
+        <related_log_entry display_value="2019-06-07 13:44:20">fbe3b89bdb353300063458b3ca961981</related_log_entry>
         <status>1</status>
         <sys_class_name>gsw_status_of_content</sys_class_name>
         <sys_created_by>admin</sys_created_by>

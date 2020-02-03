@@ -2,12 +2,12 @@
     <gsw_status_of_content action="INSERT_OR_UPDATE">
         <best_practice_allowed_ever>0</best_practice_allowed_ever>
         <checksum/>
-        <content display_value="Business Service - Software Models">7f271530874103008a4a578c87cb0b87</content>
+        <content display_value="Application Service - Software Models">7f271530874103008a4a578c87cb0b87</content>
         <effective_weight>1</effective_weight>
         <more_info_visited>false</more_info_visited>
         <previous_status>1</previous_status>
         <progress>100</progress>
-        <related_log_entry display_value="2019-06-07 15:49:10">3f47ec5fdbf13300063458b3ca961901</related_log_entry>
+        <related_log_entry display_value="2019-06-07 12:49:10">3f47ec5fdbf13300063458b3ca961901</related_log_entry>
         <status>2</status>
         <sys_class_name>gsw_status_of_content</sys_class_name>
         <sys_created_by>admin</sys_created_by>
